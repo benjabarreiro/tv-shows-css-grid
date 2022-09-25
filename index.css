@@ -1,0 +1,15 @@
+body {
+	margin: 0 200px;
+	display: grid;
+	grid-template-columns: 200px 200px;
+	grid-template-rows: 200px 200px;
+	row-gap: 50px;
+	justify-content: space-between;
+}
+
+span {
+	background-color: lightgreen;
+	border: 1px solid #000000;
+	display: block;
+	text-align: center;
+}
